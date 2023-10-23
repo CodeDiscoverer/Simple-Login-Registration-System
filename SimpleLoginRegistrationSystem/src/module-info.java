@@ -2,7 +2,7 @@
  * 
  */
 /**
- * @author Dinesh R
+ * @author Suriya Prasath S
  *
  */
 module SimpleLoginRegistrationSystem {
